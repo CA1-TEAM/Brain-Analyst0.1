@@ -105,6 +105,7 @@ git push -u origin main
 File Structure
 css
 Copy code
+
 Brain Analyst/
 ├── public/
 │   └── index.html
@@ -118,12 +119,15 @@ Brain Analyst/
 │   │   └── ...
 ├── package.json
 └── requirements.txt
+
+
 Future Enhancements
 Add user authentication.
 Integrate advanced data visualization tools.
 Enhance the admin panel for customization.
 Contributions
 Contributions are welcome! Fork the repository and submit a pull request.
+
 
 License
 This project is licensed under the MIT License.
